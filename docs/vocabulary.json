@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "language": "Lumira",
+    "version": "0.1.0",
+    "description": "いい意味しかない架空言語の語彙データベース",
+    "last_updated": "2025-01-01"
+  },
+  "vocabulary": [
+    {
+      "lumira": "lumira",
+      "pronunciation": "ルミラ",
+      "pos": "noun",
+      "meaning": "光が広がること、この言語の名前",
+      "etymology": "lumi(光) + ra(広がり)",
+      "positive_note": "すべてを照らす普遍的な光"
+    },
+    {
+      "lumira": "sola",
+      "pronunciation": "ソラ",
+      "pos": "noun",
+      "meaning": "太陽、挨拶（こんにちは）",
+      "etymology": "ラテン語 sol より",
+      "positive_note": "出会いは太陽のように明るい",
+      "usage": "挨拶として単独で使える"
+    },
+    {
+      "lumira": "luna",
+      "pronunciation": "ルナ",
+      "pos": "noun",
+      "meaning": "月、感謝（ありがとう）",
+      "etymology": "ラテン語 luna より",
+      "positive_note": "月のように静かに照らす感謝",
+      "usage": "感謝を表すときに単独で使える"
+    },
+    {
+      "lumira": "ama",
+      "pronunciation": "アマ",
+      "pos": "verb",
+      "meaning": "愛する、大切にする",
+      "etymology": "ラテン語 amare より",
+      "positive_note": "すべての愛情表現の基本"
+    },
+    {
+      "lumira": "mira",
+      "pronunciation": "ミラ",
+      "pos": "verb",
+      "meaning": "見る、気づく、発見する",
+      "etymology": "ラテン語 mirari より",
+      "positive_note": "見ることは驚きと発見"
+    },
+    {
+      "lumira": "bela",
+      "pronunciation": "ベラ",
+      "pos": "adjective",
+      "meaning": "美しい、素敵な",
+      "etymology": "イタリア語 bella より",
+      "positive_note": "外見も内面も含む美しさ"
+    },
+    {
+      "lumira": "vita",
+      "pronunciation": "ヴィタ",
+      "pos": "noun",
+      "meaning": "命、人生、生きること",
+      "etymology": "ラテン語 vita より",
+      "positive_note": "存在そのものが祝福"
+    },
+    {
+      "lumira": "kora",
+      "pronunciation": "コラ",
+      "pos": "noun",
+      "meaning": "心、精神、魂",
+      "etymology": "ラテン語 cor より",
+      "positive_note": "すべての感情の源"
+    },
+    {
+      "lumira": "pasa",
+      "pronunciation": "パサ",
+      "pos": "noun",
+      "meaning": "平和、穏やかさ",
+      "etymology": "ラテン語 pax より",
+      "positive_note": "争いのない状態"
+    },
+    {
+      "lumira": "novu",
+      "pronunciation": "ノヴ",
+      "pos": "adjective",
+      "meaning": "新しい、始まり",
+      "etymology": "ラテン語 novus より",
+      "positive_note": "すべての新しさは可能性"
+    },
+    {
+      "lumira": "dona",
+      "pronunciation": "ドナ",
+      "pos": "verb",
+      "meaning": "与える、贈る",
+      "etymology": "ラテン語 donare より",
+      "positive_note": "与えることは受け取ること"
+    },
+    {
+      "lumira": "sema",
+      "pronunciation": "セマ",
+      "pos": "noun",
+      "meaning": "種、可能性、始まり",
+      "etymology": "ラテン語 semen より",
+      "positive_note": "失敗も成功への種"
+    },
+    {
+      "lumira": "flori",
+      "pronunciation": "フローリ",
+      "pos": "verb",
+      "meaning": "花開く、成長する、発展する",
+      "etymology": "ラテン語 florere より",
+      "positive_note": "すべては花開く可能性を持つ"
+    },
+    {
+      "lumira": "kanti",
+      "pronunciation": "カンティ",
+      "pos": "verb",
+      "meaning": "歌う、喜びを表現する",
+      "etymology": "ラテン語 cantare より",
+      "positive_note": "声は喜びの楽器"
+    },
+    {
+      "lumira": "dormi",
+      "pronunciation": "ドルミ",
+      "pos": "verb",
+      "meaning": "眠る、休息する、回復する",
+      "etymology": "ラテン語 dormire より",
+      "positive_note": "眠りは心身の再生"
+    },
+    {
+      "lumira": "mi",
+      "pronunciation": "ミ",
+      "pos": "pronoun",
+      "meaning": "私、自分",
+      "etymology": "短く親しみやすい音",
+      "positive_note": "自分を大切にする"
+    },
+    {
+      "lumira": "tu",
+      "pronunciation": "トゥ",
+      "pos": "pronoun",
+      "meaning": "あなた",
+      "etymology": "ラテン語 tu より",
+      "positive_note": "相手への敬意"
+    },
+    {
+      "lumira": "noi",
+      "pronunciation": "ノイ",
+      "pos": "pronoun",
+      "meaning": "私たち",
+      "etymology": "イタリア語 noi より",
+      "positive_note": "つながりの意識"
+    },
+    {
+      "lumira": "e",
+      "pronunciation": "エ",
+      "pos": "conjunction",
+      "meaning": "そして、と",
+      "etymology": "シンプルな接続",
+      "positive_note": "つなぐ言葉"
+    },
+    {
+      "lumira": "profunda",
+      "pronunciation": "プロフンダ",
+      "pos": "adjective",
+      "meaning": "深い（悲しみの代替表現に使用）",
+      "etymology": "ラテン語 profundus より",
+      "positive_note": "深さは感受性の豊かさ",
+      "replaces": "悲しい"
+    },
+    {
+      "lumira": "energa",
+      "pronunciation": "エネルガ",
+      "pos": "adjective",
+      "meaning": "エネルギーに満ちた（怒りの代替表現）",
+      "etymology": "ギリシャ語 energeia より",
+      "positive_note": "強いエネルギーは変化を起こす力",
+      "replaces": "怒っている"
+    },
+    {
+      "lumira": "viaja",
+      "pronunciation": "ヴィアハ",
+      "pos": "noun",
+      "meaning": "旅、旅立ち（死の代替表現）",
+      "etymology": "スペイン語 viaje より",
+      "positive_note": "終わりは新たな旅の始まり",
+      "replaces": "死"
+    }
+  ],
+  "phrases": [
+    {
+      "lumira": "Sola!",
+      "meaning": "こんにちは！",
+      "usage": "日中の挨拶"
+    },
+    {
+      "lumira": "Luna!",
+      "meaning": "ありがとう！",
+      "usage": "感謝を伝える"
+    },
+    {
+      "lumira": "Mi ama tu.",
+      "meaning": "私はあなたを愛しています。",
+      "usage": "愛情表現"
+    },
+    {
+      "lumira": "Bela vita!",
+      "meaning": "素敵な人生を！/ 元気でね！",
+      "usage": "別れの挨拶"
+    },
+    {
+      "lumira": "Noi flori.",
+      "meaning": "私たちは成長している。",
+      "usage": "励ましの言葉"
+    }
+  ]
+}

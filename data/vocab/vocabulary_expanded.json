@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "language": "Lumira",
+    "version": "0.2.0",
+    "description": "Expanded Lumira vocabulary",
+    "word_count": 100
+  },
+  "vocabulary": [
+    {
+      "lumira": "lumira",
+      "pronunciation": "ルミラ",
+      "pos": "noun",
+      "meaning": "光が広がること、この言語の名前",
+      "etymology": "lumi(光) + ra(広がり)",
+      "positive_note": "すべてを照らす普遍的な光",
+      "category": ""
+    },
+    {
+      "lumira": "sola",
+      "pronunciation": "ソラ",
+      "pos": "noun",
+      "meaning": "太陽、挨拶（こんにちは）",
+      "etymology": "ラテン語 sol より",
+      "positive_note": "出会いは太陽のように明るい",
+      "category": ""
+    },
+    {
+      "lumira": "luna",
+      "pronunciation": "ルナ",
+      "pos": "noun",
+      "meaning": "月、感謝（ありがとう）",
+      "etymology": "ラテン語 luna より",
+      "positive_note": "月のように静かに照らす感謝",
+      "category": ""
+    },
+    {
+      "lumira": "ama",
+      "pronunciation": "アマ",
+      "pos": "verb",
+      "meaning": "愛する、大切にする",
+      "etymology": "ラテン語 amare より",
+      "positive_note": "すべての愛情表現の基本",
+      "category": ""
+    },
+    {
+      "lumira": "mira",
+      "pronunciation": "ミラ",
+      "pos": "verb",
+      "meaning": "見る、気づく、発見する",
+      "etymology": "ラテン語 mirari より",
+      "positive_note": "見ることは驚きと発見",
+      "category": ""
+    },
+    {
+      "lumira": "bela",
+      "pronunciation": "ベラ",
+      "pos": "adjective",
+      "meaning": "美しい、素敵な",
+      "etymology": "イタリア語 bella より",
+      "positive_note": "外見も内面も含む美しさ",
+      "category": ""
+    },
+    {
+      "lumira": "vita",
+      "pronunciation": "ヴィタ",
+      "pos": "noun",
+      "meaning": "命、人生、生きること",
+      "etymology": "ラテン語 vita より",
+      "positive_note": "存在そのものが祝福",
+      "category": ""
+    },
+    {
+      "lumira": "kora",
+      "pronunciation": "コラ",
+      "pos": "noun",
+      "meaning": "心、精神、魂",
+      "etymology": "ラテン語 cor より",
+      "positive_note": "すべての感情の源",
+      "category": ""
+    },
+    {
+      "lumira": "pasa",
+      "pronunciation": "パサ",
+      "pos": "noun",
+      "meaning": "平和、穏やかさ",
+      "etymology": "ラテン語 pax より",
+      "positive_note": "争いのない状態",
+      "category": ""
+    },
+    {
+      "lumira": "novu",
+      "pronunciation": "ノヴ",
+      "pos": "adjective",
+      "meaning": "新しい、始まり",
+      "etymology": "ラテン語 novus より",
+      "positive_note": "すべての新しさは可能性",
+      "category": ""
+    },
+    {
+      "lumira": "dona",
+      "pronunciation": "ドナ",
+      "pos": "verb",
+      "meaning": "与える、贈る",
+      "etymology": "ラテン語 donare より",
+      "positive_note": "与えることは受け取ること",
+      "category": ""
+    },
+    {
+      "lumira": "sema",
+      "pronunciation": "セマ",
+      "pos": "noun",
+      "meaning": "種、可能性、始まり",
+      "etymology": "ラテン語 semen より",
+      "positive_note": "失敗も成功への種",
+      "category": ""
+    },
+    {
+      "lumira": "flori",
+      "pronunciation": "フローリ",
+      "pos": "verb",
+      "meaning": "花開く、成長する、発展する",
+      "etymology": "ラテン語 florere より",
+      "positive_note": "すべては花開く可能性を持つ",
+      "category": ""
+    },
+    {
+      "lumira": "kanti",
+      "pronunciation": "カンティ",
+      "pos": "verb",
+      "meaning": "歌う、喜びを表現する",
+      "etymology": "ラテン語 cantare より",
+      "positive_note": "声は喜びの楽器",
+      "category": ""
+    },
+    {
+      "lumira": "dormi",
+      "pronunciation": "ドルミ",
+      "pos": "verb",
+      "meaning": "眠る、休息する、回復する",
+      "etymology": "ラテン語 dormire より",
+      "positive_note": "眠りは心身の再生",
+      "category": ""
+    },
+    {
+      "lumira": "mi",
+      "pronunciation": "ミ",
+      "pos": "pronoun",
+      "meaning": "私、自分",
+      "etymology": "短く親しみやすい音",
+      "positive_note": "自分を大切にする",
+      "category": ""
+    },
+    {
+      "lumira": "tu",
+      "pronunciation": "トゥ",
+      "pos": "pronoun",
+      "meaning": "あなた",
+      "etymology": "ラテン語 tu より",
+      "positive_note": "相手への敬意",
+      "category": ""
+    },
+    {
+      "lumira": "noi",
+      "pronunciation": "ノイ",
+      "pos": "pronoun",
+      "meaning": "私たち",
+      "etymology": "イタリア語 noi より",
+      "positive_note": "つながりの意識",
+      "category": ""
+    },
+    {
+      "lumira": "e",
+      "pronunciation": "エ",
+      "pos": "conjunction",
+      "meaning": "そして、と",
+      "etymology": "シンプルな接続",
+      "positive_note": "つなぐ言葉",
+      "category": ""
+    },
+    {
+      "lumira": "profunda",
+      "pronunciation": "プロフンダ",
+      "pos": "adjective",
+      "meaning": "深い（悲しみの代替表現に使用）",
+      "etymology": "ラテン語 profundus より",
+      "positive_note": "深さは感受性の豊かさ",
+      "category": ""
+    },
+    {
+      "lumira": "energa",
+      "pronunciation": "エネルガ",
+      "pos": "adjective",
+      "meaning": "エネルギーに満ちた（怒りの代替表現）",
+      "etymology": "ギリシャ語 energeia より",
+      "positive_note": "強いエネルギーは変化を起こす力",
+      "category": ""
+    },
+    {
+      "lumira": "viaja",
+      "pronunciation": "ヴィアハ",
+      "pos": "noun",
+      "meaning": "旅、旅立ち（死の代替表現）",
+      "etymology": "スペイン語 viaje より",
+      "positive_note": "終わりは新たな旅の始まり",
+      "category": ""
+    },
+    {
+      "lumira": "nilvovo",
+      "pronunciation": "ニヴォヴォ",
+      "pos": "interjection",
+      "meaning": "おはよう",
+      "etymology": "Lumira造語",
+      "positive_note": "朝の挨拶",
+      "category": "greetings"
+    },
+    {
+      "lumira": "ulimnu",
+      "pronunciation": "ウリヌ",
+      "pos": "interjection",
+      "meaning": "おやすみ",
+      "etymology": "Lumira造語",
+      "positive_note": "夜の挨拶",
+      "category": "greetings"
+    },
+    {
+      "lumira": "vesa",
+      "pronunciation": "ヴェサ",
+      "pos": "interjection",
+      "meaning": "さようなら",
+      "etymology": "Lumira造語",
+      "positive_note": "別れの挨拶",
+      "category": "greetings"
+    },
+    {
+      "lumira": "novao",
+      "pronunciation": "ノヴァオ",
+      "pos": "interjection",
+      "meaning": "ようこそ",
+      "etymology": "Lumira造語",
+      "positive_note": "歓迎",
+      "category": "greetings"
+    },
+    {
+      "lumira": "alosar",
+      "pronunciation": "アロサ",
+      "pos": "interjection",
+      "meaning": "お元気ですか",
+      "etymology": "Lumira造語",
+      "positive_note": "状態の確認",
+      "category": "greetings"
+    },
+    {
+      "lumira": "lio",
+      "pronunciation": "リオ",
+      "pos": "noun",
+      "meaning": "嬉しい",
+      "etymology": "Lumira造語",
+      "positive_note": "喜びの感情",
+      "category": "emotions"
+    },
+    {
+      "lumira": "ee",
+      "pronunciation": "エエ",
+      "pos": "noun",
+      "meaning": "楽しい",
+      "etymology": "Lumira造語",
+      "positive_note": "楽しみの感情",
+      "category": "emotions"
+    },
+    {
+      "lumira": "linumo",
+      "pronunciation": "リヌモ",
+      "pos": "noun",
+      "meaning": "穏やか",
+      "etymology": "Lumira造語",
+      "positive_note": "平静の感情",
+      "category": "emotions"
+    },
+    {
+      "lumira": "voo",
+      "pronunciation": "ヴォオ",
+      "pos": "noun",
+      "meaning": "希望",
+      "etymology": "Lumira造語",
+      "positive_note": "未来への期待",
+      "category": "emotions"
+    },
+    {
+      "lumira": "levo",
+      "pronunciation": "レヴォ",
+      "pos": "noun",
+      "meaning": "感謝",
+      "etymology": "Lumira造語",
+      "positive_note": "謝意",
+      "category": "emotions"
+    },
+    {
+      "lumira": "ari",
+      "pronunciation": "アリ",
+      "pos": "noun",
+      "meaning": "勇気",
+      "etymology": "Lumira造語",
+      "positive_note": "困難に立ち向かう力",
+      "category": "emotions"
+    },
+    {
+      "lumira": "nelinis",
+      "pronunciation": "ネリニ",
+      "pos": "noun",
+      "meaning": "優しさ",
+      "etymology": "Lumira造語",
+      "positive_note": "思いやり",
+      "category": "emotions"
+    },
+    {
+      "lumira": "nanavu",
+      "pronunciation": "ナナヴ",
+      "pos": "noun",
+      "meaning": "幸せ",
+      "etymology": "Lumira造語",
+      "positive_note": "満足感",
+      "category": "emotions"
+    },
+    {
+      "lumira": "mesen",
+      "pronunciation": "メセン",
+      "pos": "noun",
+      "meaning": "空",
+      "etymology": "Lumira造語",
+      "positive_note": "大気",
+      "category": "nature"
+    },
+    {
+      "lumira": "misasva",
+      "pronunciation": "ミサヴァ",
+      "pos": "noun",
+      "meaning": "海",
+      "etymology": "Lumira造語",
+      "positive_note": "大きな水",
+      "category": "nature"
+    },
+    {
+      "lumira": "nilumera",
+      "pronunciation": "ニルメラ",
+      "pos": "noun",
+      "meaning": "山",
+      "etymology": "Lumira造語",
+      "positive_note": "高い大地",
+      "category": "nature"
+    },
+    {
+      "lumira": "lilvomi",
+      "pronunciation": "リヴォミ",
+      "pos": "noun",
+      "meaning": "森",
+      "etymology": "Lumira造語",
+      "positive_note": "木々の集まり",
+      "category": "nature"
+    },
+    {
+      "lumira": "saari",
+      "pronunciation": "サアリ",
+      "pos": "noun",
+      "meaning": "川",
+      "etymology": "Lumira造語",
+      "positive_note": "流れる水",
+      "category": "nature"
+    },
+    {
+      "lumira": "eulas",
+      "pronunciation": "エウラ",
+      "pos": "noun",
+      "meaning": "星",
+      "etymology": "Lumira造語",
+      "positive_note": "夜空の光",
+      "category": "nature"
+    },
+    {
+      "lumira": "ruvee",
+      "pronunciation": "ルヴェエ",
+      "pos": "noun",
+      "meaning": "風",
+      "etymology": "Lumira造語",
+      "positive_note": "空気の流れ",
+      "category": "nature"
+    },
+    {
+      "lumira": "marva",
+      "pronunciation": "マヴァ",
+      "pos": "noun",
+      "meaning": "雨",
+      "etymology": "Lumira造語",
+      "positive_note": "天からの水",
+      "category": "nature"
+    },
+    {
+      "lumira": "nuno",
+      "pronunciation": "ヌノ",
+      "pos": "noun",
+      "meaning": "花",
+      "etymology": "Lumira造語",
+      "positive_note": "植物の美",
+      "category": "nature"
+    },
+    {
+      "lumira": "nerino",
+      "pronunciation": "ネリノ",
+      "pos": "noun",
+      "meaning": "木",
+      "etymology": "Lumira造語",
+      "positive_note": "大きな植物",
+      "category": "nature"
+    },
+    {
+      "lumira": "usuve",
+      "pronunciation": "ウスヴェ",
+      "pos": "noun",
+      "meaning": "雲",
+      "etymology": "Lumira造語",
+      "positive_note": "空の綿",
+      "category": "nature"
+    },
+    {
+      "lumira": "murala",
+      "pronunciation": "ムララ",
+      "pos": "noun",
+      "meaning": "虹",
+      "etymology": "Lumira造語",
+      "positive_note": "色の架け橋",
+      "category": "nature"
+    },
+    {
+      "lumira": "nenve",
+      "pronunciation": "ネンヴェ",
+      "pos": "noun",
+      "meaning": "今日",
+      "etymology": "Lumira造語",
+      "positive_note": "現在の日",
+      "category": "time"
+    },
+    {
+      "lumira": "sesrasovi",
+      "pronunciation": "セラソヴィ",
+      "pos": "noun",
+      "meaning": "明日",
+      "etymology": "Lumira造語",
+      "positive_note": "次の日",
+      "category": "time"
+    },
+    {
+      "lumira": "mimla",
+      "pronunciation": "ミラ",
+      "pos": "noun",
+      "meaning": "昨日",
+      "etymology": "Lumira造語",
+      "positive_note": "前の日",
+      "category": "time"
+    },
+    {
+      "lumira": "ruso",
+      "pronunciation": "ルソ",
+      "pos": "noun",
+      "meaning": "朝",
+      "etymology": "Lumira造語",
+      "positive_note": "一日の始まり",
+      "category": "time"
+    },
+    {
+      "lumira": "sannuve",
+      "pronunciation": "サンヌヴェ",
+      "pos": "noun",
+      "meaning": "夜",
+      "etymology": "Lumira造語",
+      "positive_note": "一日の終わり",
+      "category": "time"
+    },
+    {
+      "lumira": "seo",
+      "pronunciation": "セオ",
+      "pos": "noun",
+      "meaning": "今",
+      "etymology": "Lumira造語",
+      "positive_note": "現在",
+      "category": "time"
+    },
+    {
+      "lumira": "vami",
+      "pronunciation": "ヴァミ",
+      "pos": "noun",
+      "meaning": "永遠",
+      "etymology": "Lumira造語",
+      "positive_note": "終わりなき時",
+      "category": "time"
+    },
+    {
+      "lumira": "salemi",
+      "pronunciation": "サレミ",
+      "pos": "noun",
+      "meaning": "春",
+      "etymology": "Lumira造語",
+      "positive_note": "再生の季節",
+      "category": "time"
+    },
+    {
+      "lumira": "nami",
+      "pronunciation": "ナミ",
+      "pos": "noun",
+      "meaning": "夏",
+      "etymology": "Lumira造語",
+      "positive_note": "活力の季節",
+      "category": "time"
+    },
+    {
+      "lumira": "sesamuv",
+      "pronunciation": "セサム",
+      "pos": "noun",
+      "meaning": "秋",
+      "etymology": "Lumira造語",
+      "positive_note": "収穫の季節",
+      "category": "time"
+    },
+    {
+      "lumira": "rula",
+      "pronunciation": "ルラ",
+      "pos": "noun",
+      "meaning": "冬",
+      "etymology": "Lumira造語",
+      "positive_note": "休息の季節",
+      "category": "time"
+    },
+    {
+      "lumira": "raveno",
+      "pronunciation": "ラヴェノ",
+      "pos": "verb",
+      "meaning": "行く",
+      "etymology": "Lumira造語",
+      "positive_note": "移動する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "sarou",
+      "pronunciation": "サロウ",
+      "pos": "verb",
+      "meaning": "来る",
+      "etymology": "Lumira造語",
+      "positive_note": "近づく",
+      "category": "verbs"
+    },
+    {
+      "lumira": "velmo",
+      "pronunciation": "ヴェモ",
+      "pos": "verb",
+      "meaning": "食べる",
+      "etymology": "Lumira造語",
+      "positive_note": "栄養を取る",
+      "category": "verbs"
+    },
+    {
+      "lumira": "eviu",
+      "pronunciation": "エヴィウ",
+      "pos": "verb",
+      "meaning": "飲む",
+      "etymology": "Lumira造語",
+      "positive_note": "液体を取る",
+      "category": "verbs"
+    },
+    {
+      "lumira": "reluni",
+      "pronunciation": "レルニ",
+      "pos": "verb",
+      "meaning": "寝る",
+      "etymology": "Lumira造語",
+      "positive_note": "休息する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "vavlerri",
+      "pronunciation": "ヴァレリ",
+      "pos": "verb",
+      "meaning": "起きる",
+      "etymology": "Lumira造語",
+      "positive_note": "目覚める",
+      "category": "verbs"
+    },
+    {
+      "lumira": "eru",
+      "pronunciation": "エル",
+      "pos": "verb",
+      "meaning": "話す",
+      "etymology": "Lumira造語",
+      "positive_note": "言葉を発する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "meve",
+      "pronunciation": "メヴェ",
+      "pos": "verb",
+      "meaning": "聞く",
+      "etymology": "Lumira造語",
+      "positive_note": "音を受け取る",
+      "category": "verbs"
+    },
+    {
+      "lumira": "ilusne",
+      "pronunciation": "イルネ",
+      "pos": "verb",
+      "meaning": "見る",
+      "etymology": "Lumira造語",
+      "positive_note": "視覚で認識する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "ere",
+      "pronunciation": "エレ",
+      "pos": "verb",
+      "meaning": "読む",
+      "etymology": "Lumira造語",
+      "positive_note": "文字を理解する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "noosu",
+      "pronunciation": "ノオス",
+      "pos": "verb",
+      "meaning": "書く",
+      "etymology": "Lumira造語",
+      "positive_note": "文字を残す",
+      "category": "verbs"
+    },
+    {
+      "lumira": "menomlo",
+      "pronunciation": "メノロ",
+      "pos": "verb",
+      "meaning": "作る",
+      "etymology": "Lumira造語",
+      "positive_note": "創造する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "mirale",
+      "pronunciation": "ミラレ",
+      "pos": "verb",
+      "meaning": "助ける",
+      "etymology": "Lumira造語",
+      "positive_note": "支援する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "nasoni",
+      "pronunciation": "ナソニ",
+      "pos": "verb",
+      "meaning": "学ぶ",
+      "etymology": "Lumira造語",
+      "positive_note": "知識を得る",
+      "category": "verbs"
+    },
+    {
+      "lumira": "roive",
+      "pronunciation": "ロイヴェ",
+      "pos": "verb",
+      "meaning": "教える",
+      "etymology": "Lumira造語",
+      "positive_note": "知識を伝える",
+      "category": "verbs"
+    },
+    {
+      "lumira": "ue",
+      "pronunciation": "ウエ",
+      "pos": "verb",
+      "meaning": "思う",
+      "etymology": "Lumira造語",
+      "positive_note": "考える",
+      "category": "verbs"
+    },
+    {
+      "lumira": "ralver",
+      "pronunciation": "ラヴェ",
+      "pos": "verb",
+      "meaning": "感じる",
+      "etymology": "Lumira造語",
+      "positive_note": "感覚する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "linarer",
+      "pronunciation": "リナレ",
+      "pos": "verb",
+      "meaning": "笑う",
+      "etymology": "Lumira造語",
+      "positive_note": "喜びを表す",
+      "category": "verbs"
+    },
+    {
+      "lumira": "molu",
+      "pronunciation": "モル",
+      "pos": "verb",
+      "meaning": "歩く",
+      "etymology": "Lumira造語",
+      "positive_note": "足で移動する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "eriri",
+      "pronunciation": "エリリ",
+      "pos": "verb",
+      "meaning": "走る",
+      "etymology": "Lumira造語",
+      "positive_note": "速く移動する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "movmuvsus",
+      "pronunciation": "モムス",
+      "pos": "verb",
+      "meaning": "待つ",
+      "etymology": "Lumira造語",
+      "positive_note": "時を過ごす",
+      "category": "verbs"
+    },
+    {
+      "lumira": "rovul",
+      "pronunciation": "ロヴ",
+      "pos": "verb",
+      "meaning": "始める",
+      "etymology": "Lumira造語",
+      "positive_note": "開始する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "rase",
+      "pronunciation": "ラセ",
+      "pos": "verb",
+      "meaning": "終わる",
+      "etymology": "Lumira造語",
+      "positive_note": "完了する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "rori",
+      "pronunciation": "ロリ",
+      "pos": "verb",
+      "meaning": "変わる",
+      "etymology": "Lumira造語",
+      "positive_note": "変化する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "una",
+      "pronunciation": "ウナ",
+      "pos": "verb",
+      "meaning": "続ける",
+      "etymology": "Lumira造語",
+      "positive_note": "継続する",
+      "category": "verbs"
+    },
+    {
+      "lumira": "isumo",
+      "pronunciation": "イスモ",
+      "pos": "adjective",
+      "meaning": "大きい",
+      "etymology": "Lumira造語",
+      "positive_note": "規模が大",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "milinla",
+      "pronunciation": "ミリンラ",
+      "pos": "adjective",
+      "meaning": "小さい",
+      "etymology": "Lumira造語",
+      "positive_note": "規模が小",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "vorelo",
+      "pronunciation": "ヴォレロ",
+      "pos": "adjective",
+      "meaning": "新しい",
+      "etymology": "Lumira造語",
+      "positive_note": "時間的に近い",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "neese",
+      "pronunciation": "ネエセ",
+      "pos": "adjective",
+      "meaning": "古い",
+      "etymology": "Lumira造語",
+      "positive_note": "時間的に遠い",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "vureo",
+      "pronunciation": "ヴレオ",
+      "pos": "adjective",
+      "meaning": "良い",
+      "etymology": "Lumira造語",
+      "positive_note": "肯定的",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "lene",
+      "pronunciation": "レネ",
+      "pos": "adjective",
+      "meaning": "強い",
+      "etymology": "Lumira造語",
+      "positive_note": "力がある",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "lavveo",
+      "pronunciation": "ラヴェオ",
+      "pos": "adjective",
+      "meaning": "優しい",
+      "etymology": "Lumira造語",
+      "positive_note": "穏やか",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "rolra",
+      "pronunciation": "ロラ",
+      "pos": "adjective",
+      "meaning": "明るい",
+      "etymology": "Lumira造語",
+      "positive_note": "光がある",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "elalva",
+      "pronunciation": "エラヴァ",
+      "pos": "adjective",
+      "meaning": "暖かい",
+      "etymology": "Lumira造語",
+      "positive_note": "温度が心地よい",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "rusnisama",
+      "pronunciation": "ルニサマ",
+      "pos": "adjective",
+      "meaning": "涼しい",
+      "etymology": "Lumira造語",
+      "positive_note": "温度が爽やか",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "viloro",
+      "pronunciation": "ヴィロロ",
+      "pos": "adjective",
+      "meaning": "静か",
+      "etymology": "Lumira造語",
+      "positive_note": "音が少ない",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "narmo",
+      "pronunciation": "ナモ",
+      "pos": "adjective",
+      "meaning": "深い",
+      "etymology": "Lumira造語",
+      "positive_note": "奥行きがある",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "resirve",
+      "pronunciation": "レシヴェ",
+      "pos": "adjective",
+      "meaning": "高い",
+      "etymology": "Lumira造語",
+      "positive_note": "位置が上",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "mavemu",
+      "pronunciation": "マヴェム",
+      "pos": "adjective",
+      "meaning": "広い",
+      "etymology": "Lumira造語",
+      "positive_note": "面積が大",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "mia",
+      "pronunciation": "ミア",
+      "pos": "adjective",
+      "meaning": "長い",
+      "etymology": "Lumira造語",
+      "positive_note": "距離・時間が大",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "osono",
+      "pronunciation": "オソノ",
+      "pos": "adjective",
+      "meaning": "速い",
+      "etymology": "Lumira造語",
+      "positive_note": "スピードがある",
+      "category": "adjectives"
+    },
+    {
+      "lumira": "movo",
+      "pronunciation": "モヴォ",
+      "pos": "adjective",
+      "meaning": "柔らかい",
+      "etymology": "Lumira造語",
+      "positive_note": "触感が優しい",
+      "category": "adjectives"
+    }
+  ]
+}

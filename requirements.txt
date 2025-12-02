@@ -1,0 +1,24 @@
+# Lumira Tiny LLM - Dependencies
+
+# Core ML
+torch>=2.0.0
+numpy>=1.24.0
+
+# Tokenizer
+sentencepiece>=0.1.99
+tokenizers>=0.15.0
+
+# Data processing
+tqdm>=4.65.0
+pandas>=2.0.0
+
+# Training utilities
+tensorboard>=2.14.0
+wandb>=0.15.0  # optional
+
+# Inference UI
+gradio>=4.0.0
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
