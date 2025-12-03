@@ -4,7 +4,7 @@ from pathlib import Path
 
 import torch
 
-from ..model import LumiraTransformer, ModelConfig, SMALL_CONFIG
+from ..model import LumiraTransformer, ModelConfig, TINY_CONFIG
 from ..data import LumiraTokenizer
 
 
@@ -15,7 +15,7 @@ class Translator:
         self,
         model_path: str | Path,
         tokenizer_path: str | Path,
-        model_config: ModelConfig = SMALL_CONFIG,
+        model_config: ModelConfig = TINY_CONFIG,
         device: str | None = None,
     ):
         """Initialize translator.
