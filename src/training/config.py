@@ -19,7 +19,7 @@ class TrainingConfig:
     model_config: str = "tiny"  # tiny, small, base
 
     # Training
-    epochs: int = 20
+    epochs: int = 10
     batch_size: int = 32
     gradient_accumulation_steps: int = 2
     max_seq_len: int = 128
