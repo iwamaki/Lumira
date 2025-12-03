@@ -16,7 +16,7 @@ class TrainingConfig:
     tokenizer_model: str = "data/vocab/lumira.model"
 
     # Model (see ModelConfig for architecture)
-    model_config: str = "small"  # tiny, small, base
+    model_config: str = "tiny"  # tiny, small, base
 
     # Training
     epochs: int = 20
